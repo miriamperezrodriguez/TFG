@@ -1,4 +1,4 @@
-# 🚀 TGF: HorrorTrack: Plataforma de Registro y Reseñas de Películas de Terror
+# 🚀 TFG: HorrorTrack: Plataforma de Registro y Reseñas de Películas de Terror
 
 # 📖 Resumen
 
